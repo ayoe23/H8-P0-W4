@@ -1,11 +1,3 @@
-/*
-Buat var arr kosong untuk menampung nilai array nya
-Buat var objek untuk menampung key 'penumpang', 'naikDari', 'tujuan', 'bayar'
-Buat perulangan untuk looping rute
-Buat perulangan untuk looping penumpang
-Buat kondisi, jika 
-
-*/
 
 function naikAngkot(arrPenumpang) {
     
